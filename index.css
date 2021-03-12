@@ -6,3 +6,7 @@ asd {
 h1 {
     color: #000;
 }
+
+.box {
+    border: 1px solid #fff;
+}
